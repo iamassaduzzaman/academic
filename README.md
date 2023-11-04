@@ -9,4 +9,4 @@ It's a repo to manage my academic study material easily.
 <a href="https://docs.google.com/presentation/d/1zPdxLQUXg4R50lkWjzzoRwn3a81ZHbPrwWLixNGPNtM/edit?usp=sharing" target="_blank">Presentation: CSE135 </a>
 
 
-<a href="https://docs.google.com/presentation/d/1osKffCca524p4IA9ZYDiVmKJjMoLEAK8QcA8ZCQhChg/edit?usp=sharing" target="_blank">Presentation: ENG10 </a>
+<a href="https://docs.google.com/presentation/d/1osKffCca524p4IA9ZYDiVmKJjMoLEAK8QcA8ZCQhChg/edit?usp=sharing" target="_blank">Presentation: ENG102 </a>
