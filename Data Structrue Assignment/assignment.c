@@ -67,8 +67,8 @@ void write_contents(node *folder)
 {
   char ch;
   folder->fp = fopen("hello.txt", "w");
-  printf("Enter data");
-  while ((ch = getchar()) != EOF)
+  printf("Enter data: ");
+  while ((ch = getchar()) != '1') // to end the writing in file type 1
   {
     putc(ch, folder->fp);
   }
@@ -78,12 +78,15 @@ void write_contents(node *folder)
 // reding content from a file with in folder
 void reading_content(node *folder)
 {
+  FILE *fp = NULL;
   char ch;
   folder->fp = fopen("hello.txt", "r");
-  while (ch = getc(folder->fp) != EOF)
+  while (!feof(folder->fp))
   {
+    ch = fgetc(folder->fp);
     printf("%c", ch);
   }
+
   fclose(folder->fp);
 }
 
