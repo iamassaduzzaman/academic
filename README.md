@@ -13,3 +13,5 @@ It's a repo to manage my academic study material easily.
 
 
 <a href="https://docs.google.com/presentation/d/17Nc5-KvP5A0Raa0fiawXfuyqdxMFm0_ULj3LsNi7BW0/edit?usp=sharing" target="_blank">Presentation: CSE 213 </a>
+
+<a href="https://docs.google.com/presentation/d/1zqyaSrw2W_xLY_mke1P2ZWJHrk7UCYm12A2-mcdPHIU/edit?usp=sharing" target="_blank">Presentation: BNS 101 </a>
